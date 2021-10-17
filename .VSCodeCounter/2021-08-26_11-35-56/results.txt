@@ -1,0 +1,174 @@
+Date : 2021-08-26 11:35:56
+Directory : c:\Users\DELL\mril\mril
+Total : 105 files,  18047 codes, 1052 comments, 876 blanks, all 19975 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| Dart       |         79 |     17,362 |        935 |        799 |     19,096 |
+| JSON       |          4 |        207 |          0 |          3 |        210 |
+| HTML       |          2 |        170 |         14 |          9 |        193 |
+| XML        |          9 |        127 |         51 |         11 |        189 |
+| Groovy     |          3 |         83 |          3 |         20 |        106 |
+| YAML       |          1 |         49 |         46 |         18 |        113 |
+| JavaScript |          1 |         15 |          2 |          2 |         19 |
+| Markdown   |          2 |         13 |          0 |          9 |         22 |
+| Swift      |          1 |         12 |          0 |          2 |         14 |
+| Properties |          2 |          8 |          1 |          2 |         11 |
+| C++        |          1 |          1 |          0 |          1 |          2 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                          | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                             |        105 |     18,047 |      1,052 |        876 |     19,975 |
+| android                                                                                       |         13 |        196 |         53 |         31 |        280 |
+| android\app                                                                                   |          9 |        154 |         52 |         20 |        226 |
+| android\app\src                                                                               |          7 |         66 |         49 |          9 |        124 |
+| android\app\src\debug                                                                         |          1 |          4 |          3 |          1 |          8 |
+| android\app\src\main                                                                          |          5 |         58 |         43 |          7 |        108 |
+| android\app\src\main\res                                                                      |          4 |         26 |         32 |          6 |         64 |
+| android\app\src\main\res\drawable                                                             |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\drawable-v21                                                         |          1 |          4 |          7 |          2 |         13 |
+| android\app\src\main\res\values                                                               |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\main\res\values-night                                                         |          1 |          9 |          9 |          1 |         19 |
+| android\app\src\profile                                                                       |          1 |          4 |          3 |          1 |          8 |
+| android\gradle                                                                                |          1 |          5 |          1 |          1 |          7 |
+| android\gradle\wrapper                                                                        |          1 |          5 |          1 |          1 |          7 |
+| ios                                                                                           |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner                                                                                    |          7 |        222 |          2 |          9 |        233 |
+| ios\Runner\Assets.xcassets                                                                    |          3 |        148 |          0 |          4 |        152 |
+| ios\Runner\Assets.xcassets\AppIcon.appiconset                                                 |          1 |        122 |          0 |          1 |        123 |
+| ios\Runner\Assets.xcassets\LaunchImage.imageset                                               |          2 |         26 |          0 |          3 |         29 |
+| ios\Runner\Base.lproj                                                                         |          2 |         61 |          2 |          2 |         65 |
+| lib                                                                                           |         79 |     17,362 |        935 |        799 |     19,096 |
+| lib\PDF_bussiness                                                                             |          2 |         33 |         10 |         10 |         53 |
+| lib\Screens                                                                                   |         31 |      6,223 |        373 |        304 |      6,900 |
+| lib\Screens\add_details_screens                                                               |          3 |      1,846 |        157 |         62 |      2,065 |
+| lib\Screens\email_screens                                                                     |          3 |        364 |          4 |         21 |        389 |
+| lib\Screens\requests_screen                                                                   |          2 |        135 |          2 |         14 |        151 |
+| lib\Screens\sign_up_screens                                                                   |          2 |        545 |          8 |         25 |        578 |
+| lib\editing_screens                                                                           |          4 |      1,955 |         12 |         43 |      2,010 |
+| lib\models                                                                                    |          4 |        151 |         19 |         24 |        194 |
+| lib\profiles                                                                                  |          3 |        788 |          7 |         34 |        829 |
+| lib\providers                                                                                 |         13 |      3,235 |         96 |        193 |      3,524 |
+| lib\services                                                                                  |          3 |        183 |          6 |         19 |        208 |
+| lib\temp                                                                                      |          5 |        240 |         43 |         51 |        334 |
+| lib\temp\Neglected                                                                            |          2 |        135 |          5 |         23 |        163 |
+| lib\widget                                                                                    |         10 |        923 |         29 |         56 |      1,008 |
+| web                                                                                           |          4 |        208 |         16 |         12 |        236 |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                      | language   | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\DELL\mril\mril\README.md                                                             | Markdown   |         10 |          0 |          7 |         17 |
+| c:\Users\DELL\mril\mril\android\app\build.gradle                                              | Groovy     |         49 |          3 |         11 |         63 |
+| c:\Users\DELL\mril\mril\android\app\google-services.json                                      | JSON       |         39 |          0 |          0 |         39 |
+| c:\Users\DELL\mril\mril\android\app\src\debug\AndroidManifest.xml                             | XML        |          4 |          3 |          1 |          8 |
+| c:\Users\DELL\mril\mril\android\app\src\main\AndroidManifest.xml                              | XML        |         32 |         11 |          1 |         44 |
+| c:\Users\DELL\mril\mril\android\app\src\main\res\drawable-v21\launch_background.xml           | XML        |          4 |          7 |          2 |         13 |
+| c:\Users\DELL\mril\mril\android\app\src\main\res\drawable\launch_background.xml               | XML        |          4 |          7 |          2 |         13 |
+| c:\Users\DELL\mril\mril\android\app\src\main\res\values-night\styles.xml                      | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\DELL\mril\mril\android\app\src\main\res\values\styles.xml                            | XML        |          9 |          9 |          1 |         19 |
+| c:\Users\DELL\mril\mril\android\app\src\profile\AndroidManifest.xml                           | XML        |          4 |          3 |          1 |          8 |
+| c:\Users\DELL\mril\mril\android\build.gradle                                                  | Groovy     |         26 |          0 |          5 |         31 |
+| c:\Users\DELL\mril\mril\android\gradle.properties                                             | Properties |          3 |          0 |          1 |          4 |
+| c:\Users\DELL\mril\mril\android\gradle\wrapper\gradle-wrapper.properties                      | Properties |          5 |          1 |          1 |          7 |
+| c:\Users\DELL\mril\mril\android\settings.gradle                                               | Groovy     |          8 |          0 |          4 |         12 |
+| c:\Users\DELL\mril\mril\ios\Runner\AppDelegate.swift                                          | Swift      |         12 |          0 |          2 |         14 |
+| c:\Users\DELL\mril\mril\ios\Runner\Assets.xcassets\AppIcon.appiconset\Contents.json           | JSON       |        122 |          0 |          1 |        123 |
+| c:\Users\DELL\mril\mril\ios\Runner\Assets.xcassets\LaunchImage.imageset\Contents.json         | JSON       |         23 |          0 |          1 |         24 |
+| c:\Users\DELL\mril\mril\ios\Runner\Assets.xcassets\LaunchImage.imageset\README.md             | Markdown   |          3 |          0 |          2 |          5 |
+| c:\Users\DELL\mril\mril\ios\Runner\Base.lproj\LaunchScreen.storyboard                         | XML        |         36 |          1 |          1 |         38 |
+| c:\Users\DELL\mril\mril\ios\Runner\Base.lproj\Main.storyboard                                 | XML        |         25 |          1 |          1 |         27 |
+| c:\Users\DELL\mril\mril\ios\Runner\Runner-Bridging-Header.h                                   | C++        |          1 |          0 |          1 |          2 |
+| c:\Users\DELL\mril\mril\lib\PDF_bussiness\PDFApi.dart                                         | Dart       |         16 |          9 |          7 |         32 |
+| c:\Users\DELL\mril\mril\lib\PDF_bussiness\PDF_view.dart                                       | Dart       |         17 |          1 |          3 |         21 |
+| c:\Users\DELL\mril\mril\lib\Screens\add_details_screens\add_new_company_job.dart              | Dart       |      1,015 |          7 |         33 |      1,055 |
+| c:\Users\DELL\mril\mril\lib\Screens\add_details_screens\add_new_emplyment_details_screen.dart | Dart       |        359 |        108 |         13 |        480 |
+| c:\Users\DELL\mril\mril\lib\Screens\add_details_screens\add_new_freelance_offer_screen.dart   | Dart       |        472 |         42 |         16 |        530 |
+| c:\Users\DELL\mril\mril\lib\Screens\admin_screen.dart                                         | Dart       |        324 |         34 |         19 |        377 |
+| c:\Users\DELL\mril\mril\lib\Screens\all_freelancers_screen.dart                               | Dart       |         88 |          1 |          7 |         96 |
+| c:\Users\DELL\mril\mril\lib\Screens\applicants_for_a_job.dart                                 | Dart       |        200 |         31 |         12 |        243 |
+| c:\Users\DELL\mril\mril\lib\Screens\change_home_page.dart                                     | Dart       |         36 |          2 |          6 |         44 |
+| c:\Users\DELL\mril\mril\lib\Screens\chosen_account_screen.dart                                | Dart       |         46 |          1 |          5 |         52 |
+| c:\Users\DELL\mril\mril\lib\Screens\company_profile_screen.dart                               | Dart       |        216 |          1 |          7 |        224 |
+| c:\Users\DELL\mril\mril\lib\Screens\email_screens\email_details_screen.dart                   | Dart       |         63 |          1 |          5 |         69 |
+| c:\Users\DELL\mril\mril\lib\Screens\email_screens\emails_screen.dart                          | Dart       |         79 |          1 |          7 |         87 |
+| c:\Users\DELL\mril\mril\lib\Screens\email_screens\sending_email_screen.dart                   | Dart       |        222 |          2 |          9 |        233 |
+| c:\Users\DELL\mril\mril\lib\Screens\employment_details_screen.dart                            | Dart       |        110 |          3 |          7 |        120 |
+| c:\Users\DELL\mril\mril\lib\Screens\favorite_freelancer.dart                                  | Dart       |         79 |          1 |          7 |         87 |
+| c:\Users\DELL\mril\mril\lib\Screens\favorite_user.dart                                        | Dart       |         65 |          1 |          7 |         73 |
+| c:\Users\DELL\mril\mril\lib\Screens\freelancer_offer_detail.dart                              | Dart       |        132 |          1 |          8 |        141 |
+| c:\Users\DELL\mril\mril\lib\Screens\guest_screen.dart                                         | Dart       |        173 |          3 |         15 |        191 |
+| c:\Users\DELL\mril\mril\lib\Screens\job_applicant.dart                                        | Dart       |        315 |         16 |         10 |        341 |
+| c:\Users\DELL\mril\mril\lib\Screens\job_details.dart                                          | Dart       |        122 |          9 |          8 |        139 |
+| c:\Users\DELL\mril\mril\lib\Screens\jobs_overview_screen.dart                                 | Dart       |        632 |         28 |         13 |        673 |
+| c:\Users\DELL\mril\mril\lib\Screens\jobs_posted_by_company.dart                               | Dart       |        140 |          2 |          8 |        150 |
+| c:\Users\DELL\mril\mril\lib\Screens\jobs_posted_by_user.dart                                  | Dart       |        160 |          8 |         10 |        178 |
+| c:\Users\DELL\mril\mril\lib\Screens\login_screen.dart                                         | Dart       |        231 |         32 |         10 |        273 |
+| c:\Users\DELL\mril\mril\lib\Screens\notification_screen.dart                                  | Dart       |         64 |         22 |          9 |         95 |
+| c:\Users\DELL\mril\mril\lib\Screens\offer_details_screen.dart                                 | Dart       |         94 |          3 |          6 |        103 |
+| c:\Users\DELL\mril\mril\lib\Screens\requests_screen\freelancer_requests.dart                  | Dart       |         68 |          1 |          7 |         76 |
+| c:\Users\DELL\mril\mril\lib\Screens\requests_screen\user_requests.dart                        | Dart       |         67 |          1 |          7 |         75 |
+| c:\Users\DELL\mril\mril\lib\Screens\select_location.dart                                      | Dart       |         91 |          2 |          5 |         98 |
+| c:\Users\DELL\mril\mril\lib\Screens\sign_up_screens\sign_up_company_screen.dart               | Dart       |        164 |          1 |          8 |        173 |
+| c:\Users\DELL\mril\mril\lib\Screens\sign_up_screens\sign_up_screen.dart                       | Dart       |        381 |          7 |         17 |        405 |
+| c:\Users\DELL\mril\mril\lib\Screens\wait_company_screen.dart                                  | Dart       |         15 |          1 |          3 |         19 |
+| c:\Users\DELL\mril\mril\lib\config.dart                                                       | Dart       |          3 |          1 |          2 |          6 |
+| c:\Users\DELL\mril\mril\lib\editing_screens\edit_additional_details_screen.dart               | Dart       |        599 |          2 |          9 |        610 |
+| c:\Users\DELL\mril\mril\lib\editing_screens\edit_basic_details_screen.dart                    | Dart       |        418 |          1 |         16 |        435 |
+| c:\Users\DELL\mril\mril\lib\editing_screens\edit_company_details_screen.dart                  | Dart       |        609 |          7 |         10 |        626 |
+| c:\Users\DELL\mril\mril\lib\editing_screens\edit_educational_details_screen.dart              | Dart       |        329 |          2 |          8 |        339 |
+| c:\Users\DELL\mril\mril\lib\global_stuff.dart                                                 | Dart       |         95 |         10 |         19 |        124 |
+| c:\Users\DELL\mril\mril\lib\main.dart                                                         | Dart       |        122 |        320 |         40 |        482 |
+| c:\Users\DELL\mril\mril\lib\models\accounts.dart                                              | Dart       |         16 |          1 |          3 |         20 |
+| c:\Users\DELL\mril\mril\lib\models\employment_details.dart                                    | Dart       |         80 |          2 |          9 |         91 |
+| c:\Users\DELL\mril\mril\lib\models\http_exceptions.dart                                       | Dart       |          8 |          0 |          2 |         10 |
+| c:\Users\DELL\mril\mril\lib\models\location.dart                                              | Dart       |         47 |         16 |         10 |         73 |
+| c:\Users\DELL\mril\mril\lib\profiles\company_profile.dart                                     | Dart       |        195 |          1 |          9 |        205 |
+| c:\Users\DELL\mril\mril\lib\profiles\freelancer_profile.dart.dart                             | Dart       |        309 |          1 |         11 |        321 |
+| c:\Users\DELL\mril\mril\lib\profiles\user_profile.dart                                        | Dart       |        284 |          5 |         14 |        303 |
+| c:\Users\DELL\mril\mril\lib\providers\accounts.dart                                           | Dart       |        440 |          5 |         30 |        475 |
+| c:\Users\DELL\mril\mril\lib\providers\admin_provider.dart                                     | Dart       |        201 |          1 |         10 |        212 |
+| c:\Users\DELL\mril\mril\lib\providers\auth.dart                                               | Dart       |        182 |         43 |         16 |        241 |
+| c:\Users\DELL\mril\mril\lib\providers\details.dart                                            | Dart       |        380 |          5 |         28 |        413 |
+| c:\Users\DELL\mril\mril\lib\providers\email.dart                                              | Dart       |        126 |          5 |          9 |        140 |
+| c:\Users\DELL\mril\mril\lib\providers\employment_details.dart                                 | Dart       |        119 |          2 |         12 |        133 |
+| c:\Users\DELL\mril\mril\lib\providers\filter.dart                                             | Dart       |        122 |          1 |          8 |        131 |
+| c:\Users\DELL\mril\mril\lib\providers\freelance_offer.dart                                    | Dart       |        764 |         17 |         25 |        806 |
+| c:\Users\DELL\mril\mril\lib\providers\job.dart                                                | Dart       |         54 |          1 |          6 |         61 |
+| c:\Users\DELL\mril\mril\lib\providers\job_business.dart                                       | Dart       |        695 |         13 |         29 |        737 |
+| c:\Users\DELL\mril\mril\lib\providers\notification.dart                                       | Dart       |         58 |          1 |          7 |         66 |
+| c:\Users\DELL\mril\mril\lib\providers\previous_work.dart                                      | Dart       |         82 |          1 |          8 |         91 |
+| c:\Users\DELL\mril\mril\lib\providers\theme.dart                                              | Dart       |         12 |          1 |          5 |         18 |
+| c:\Users\DELL\mril\mril\lib\services\GPS_access_service.dart                                  | Dart       |         21 |          1 |          6 |         28 |
+| c:\Users\DELL\mril\mril\lib\services\random_object_generator.dart                             | Dart       |        117 |          2 |          7 |        126 |
+| c:\Users\DELL\mril\mril\lib\services\world_locations.dart                                     | Dart       |         45 |          3 |          6 |         54 |
+| c:\Users\DELL\mril\mril\lib\temp.dart                                                         | Dart       |      3,411 |          9 |          4 |      3,424 |
+| c:\Users\DELL\mril\mril\lib\temp\DictionaryHashSet.dart                                       | Dart       |         16 |          1 |          7 |         24 |
+| c:\Users\DELL\mril\mril\lib\temp\Neglected\AutoCompleteDictionaryTrie.dart                    | Dart       |        102 |          4 |         15 |        121 |
+| c:\Users\DELL\mril\mril\lib\temp\Neglected\TrieNode.dart                                      | Dart       |         33 |          1 |          8 |         42 |
+| c:\Users\DELL\mril\mril\lib\temp\Trie.dart                                                    | Dart       |         78 |         28 |         17 |        123 |
+| c:\Users\DELL\mril\mril\lib\temp\Vertex.dart                                                  | Dart       |         11 |          9 |          4 |         24 |
+| c:\Users\DELL\mril\mril\lib\widget\app_drawer.dart                                            | Dart       |        238 |          2 |          7 |        247 |
+| c:\Users\DELL\mril\mril\lib\widget\email_item.dart                                            | Dart       |         93 |          2 |          5 |        100 |
+| c:\Users\DELL\mril\mril\lib\widget\employment_details_item.dart                               | Dart       |         64 |          5 |          3 |         72 |
+| c:\Users\DELL\mril\mril\lib\widget\freelance_item.dart                                        | Dart       |         38 |          1 |          3 |         42 |
+| c:\Users\DELL\mril\mril\lib\widget\freelance_offer_item.dart                                  | Dart       |        149 |          2 |          7 |        158 |
+| c:\Users\DELL\mril\mril\lib\widget\job_item.dart                                              | Dart       |        140 |          8 |          6 |        154 |
+| c:\Users\DELL\mril\mril\lib\widget\nearby_words.dart                                          | Dart       |        111 |          2 |         14 |        127 |
+| c:\Users\DELL\mril\mril\lib\widget\notification_item.dart                                     | Dart       |         26 |          6 |          6 |         38 |
+| c:\Users\DELL\mril\mril\lib\widget\previous_work_item.dart                                    | Dart       |         26 |          0 |          2 |         28 |
+| c:\Users\DELL\mril\mril\lib\widget\userItem.dart                                              | Dart       |         38 |          1 |          3 |         42 |
+| c:\Users\DELL\mril\mril\pubspec.yaml                                                          | YAML       |         49 |         46 |         18 |        113 |
+| c:\Users\DELL\mril\mril\web\firebase-messaging-sw.js                                          | JavaScript |         15 |          2 |          2 |         19 |
+| c:\Users\DELL\mril\mril\web\index.html                                                        | HTML       |         91 |          0 |          3 |         94 |
+| c:\Users\DELL\mril\mril\web\indexOld.html                                                     | HTML       |         79 |         14 |          6 |         99 |
+| c:\Users\DELL\mril\mril\web\manifest.json                                                     | JSON       |         23 |          0 |          1 |         24 |
+| Total                                                                                         |            |     18,047 |      1,052 |        876 |     19,975 |
++-----------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
